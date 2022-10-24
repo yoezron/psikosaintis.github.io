@@ -1,5 +1,5 @@
 <?php return array (
-  'baseColour' => '#CA88F6',
+  'baseColour' => '#E3A6FF',
   'enabled' => true,
   'showDescriptionInJournalIndex' => 'true',
   'typography' => 'notoSans',
