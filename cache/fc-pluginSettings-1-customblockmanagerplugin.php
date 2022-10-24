@@ -6,6 +6,7 @@
     2 => 'indexed-by',
     3 => 'statistik-pengunjung',
     4 => 'issn',
+    5 => 'jurnal-psikosaintis',
   ),
   'enabled' => true,
 );
