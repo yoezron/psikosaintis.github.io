@@ -5,7 +5,8 @@
 }
 .pkp_site_name {padding-top: 0 !important; padding-bottom: 0 !important}
 .pkp_site_name > a {padding-top: 0; padding-bottom: 0;}
-.pkp_site_name .is_img img {max-height: 200px !important;}
+.pkp_site_name .is_img img {
+  object-fit: cover; width: 100%; height: 100% !important;}
 .pkp_site_name_wrapper {padding-left: 0; padding-right: 0;}
 .pkp_navigation_user_wrapper {top: 0; right: 30; padding-right:30px;}
 .pkp_navigation_primary_wrapper .pkp_nav_list {padding-left: 20px; 
@@ -14,7 +15,7 @@
   font-style: normal; 
   font: bold;
   color: white; 
-  font-weight: bolder;}
+  font-weight: bolder}
 .pkp_structure_page {margin-top:  0px !important; margin-bottom:20 !important; padding-bottom: 20 !important;}
 
 /*menu css*/
