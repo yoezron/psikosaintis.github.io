@@ -1,0 +1,49 @@
+.journals ul .body .description a {display: inline;}
+#headerNavigationContainer{
+/*background:#066993 url(https://preview.ibb.co/iZocpq/transparent-pattern-modern-1.png) repeat;
+*/max-height: 200% !important; /*mengganti warna menu (#31A9E1) dan gambar header */
+}
+.pkp_site_name {padding-top: 0 !important; padding-bottom: 0 !important}
+.pkp_site_name > a {padding-top: 0; padding-bottom: 0;}
+.pkp_site_name .is_img img {max-height: 200px !important;}
+.pkp_site_name_wrapper {padding-left: 0; padding-right: 0;}
+.pkp_navigation_user_wrapper {top: 0; right: 30; padding-right:30px;}
+.pkp_structure_page {margin-top:  0px !important; margin-bottom:20 !important; padding-bottom: 20 !important;}
+
+/*menu css*/
+*, *:before, *:after {
+  -webkit-border-sizing: border-box;
+  -moz-border-sizing: border-box;
+  border-sizing: border-box;
+}
+
+.container > ul {
+  list-style: none;
+}
+
+body {
+  font-family: tahoma,geneva,sans-serif;
+}
+.obj_article_details .abstract {
+    text-align: justify;
+}
+.pkp_footer_content {
+  float: left;
+  width: 50%;  padding-top: 10px;
+  padding-bottom:10px;
+}
+.pkp_site_name_wrapper a.is_img img {
+    max-height: none;
+}
+
+.pkp_brand_footer {
+  float: right;
+  width: 30%;
+  padding-bottom:10px;
+  padding-top: 50px;
+}
+.pkp_structure_footer_wrapper {
+	background: #e8ebef;
+	border-bottom:@double solid; 
+	border-bottom-color:#201e1f;
+}
