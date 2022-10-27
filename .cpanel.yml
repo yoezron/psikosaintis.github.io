@@ -1,0 +1,8 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/yoem7744/public_html/psikosaintis2
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp styleSheet.css $DEPLOYPATH
+    - /bin/cp -R public $DEPLOYPATH
+    - /bin/cp -R cache $DEPLOYPATH
